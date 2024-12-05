@@ -42,7 +42,7 @@ public class SA_LibroMast {
 
     private String PaginaActivacion;
 
-    private String DispoiblePortalFlag;
+    private String DisponiblePortalFlag;
 
     private String TipoVenta;
 

@@ -8,6 +8,6 @@ public interface LibrosDisponibles {
     String getEstado();
     String getTipomanejo();
     String getCodigovirtualflag();
-    String getTipoventa();
     String getPrecio();
+    String getImagen();
 }
